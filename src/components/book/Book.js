@@ -102,7 +102,7 @@ takeToLogin = (e) => {
                 </div>
                 <div className="nav-links">
                 <a className="hidden-xs" rel="noopener noreferrer" href="https://wattpad.com" target="_blank">Wattpad</a>
-                    <a className="hidden-xs" rel="noopener noreferrer" href="//github.io/" target="_blank">Github</a>
+                    <a className="hidden-xs" rel="noopener noreferrer" href="https://github.com/sachinkammar" target="_blank">Github</a>
                     <a className="hidden-xs" rel="noopener noreferrer" href="https://codepen.io/" target="_blank">Codepen</a>
                     <a href="" onClick={this.takeToLogin}>Logout</a>
                 </div>
